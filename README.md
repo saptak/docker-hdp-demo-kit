@@ -1,1 +1,1 @@
-# docker-hep-demo-kit
+# docker-hdp-demo-kit
